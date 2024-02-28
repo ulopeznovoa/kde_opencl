@@ -7,6 +7,15 @@ density estimators: efficient and multi-core implementations, by
 Unai Lopez-Novoa, Jon Saenz, Alexander Mendiburu, Jose Miguel-Alonso, 
 Inigo Errasti, Agustin Ezcurra, Gabriel Ibarra-Berastegi, 2014.
 
+It provides an OpenCL implementation of KDE, as described in:
+
+Kernel density estimation in accelerators: Implementation and performance evaluation.
+Unai Lopez-Novoa, Alexander Mendiburu, Jose Miguel-Alonso. 
+The Journal of Supercomputing 72 (2), 545-566.
+
+
+
+
 --
 
 PROGRAM DESCRIPTIONS
